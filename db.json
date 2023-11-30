@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "avatar": "https://cdn-icons-png.flaticon.com/512/6596/6596121.png",
+            "email": "admin@mail.com",
+            "password": "admin",
+            "id": 1
+        }
+    ],
+    "forum": [
+        {
+            "usename": "admin",
+            "qt": "React",
+            "qd": "What is react?",
+            "lg": "JavaScript",
+            "pd": "30-11-2023",
+            "upvote": 0,
+            "id": 1,
+            "uid": 1
+        }
+    ]
+}
